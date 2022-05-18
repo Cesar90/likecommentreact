@@ -1,6 +1,7 @@
 node_modules
 client
 server.js
+# typeDefs.js
 README.md
 
 .env
