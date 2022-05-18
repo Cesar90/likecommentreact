@@ -3,7 +3,7 @@ client
 # models
 resolvers.js
 server.js
-typeDefs.js
+# typeDefs.js
 README.md
 
 .env
