@@ -1,7 +1,5 @@
 node_modules
 client
-# models
-resolvers.js
 server.js
 # typeDefs.js
 README.md
